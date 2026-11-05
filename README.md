@@ -27,8 +27,6 @@
 
 - [CDMTL-SER](https://github.com/EEexile/CDMTL-SER)  
   联合建模离散情绪类别和连续的效价、唤醒度、支配度。
-- [MMSD](https://github.com/EEexile/MMSD)  
-  面向音频与文本的情绪识别，使用多任务学习和自蒸馏。
 - [ReCSI](https://github.com/EEexile/ReCSI)  
   在已有音频与文本识别模型上，结合残差修正、置信度校准和同说话人推断。
 - [TriMEF](https://github.com/EEexile/TriMEF)  
@@ -62,6 +60,5 @@ The team built data covering noise, backchannels, speech, and explicit interrupt
 | --- | --- |
 | [Full-duplex Voice Interaction](https://github.com/EEexile/full-duplex-barge-in-demo) | Playback interruption and response timing, with a runnable browser demo |
 | [CDMTL-SER](https://github.com/EEexile/CDMTL-SER) | Joint categorical and dimensional speech emotion recognition |
-| [MMSD](https://github.com/EEexile/MMSD) | Multitask self-distillation for audio-text emotion recognition |
 | [ReCSI](https://github.com/EEexile/ReCSI) | Residual correction, calibration, and speaker-structured inference |
 | [TriMEF](https://github.com/EEexile/TriMEF) | Expert fusion and target-face observability for multimodal emotion recognition |
