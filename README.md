@@ -12,7 +12,7 @@
 
 ### 实习与团队成果
 
-**语音算法实习 · 全双工语音交互**
+**百融云创 · 语音算法实习 · 全双工语音交互**
 
 团队围绕电话场景的误打断问题，构建了覆盖噪声、附和、有效发言和明确打断的数据，迭代流式打断判别模型，并开展停播策略评测。公开项目以可运行示例呈现 VAD 之后的两条决策链路。
 
@@ -50,7 +50,7 @@ I am interested in how voice assistants decide when to listen, wait, stop speaki
 
 ### Internship and team work
 
-**Speech algorithms internship · Full-duplex voice interaction**
+**Bairong Inc. · Speech algorithms internship · Full-duplex voice interaction**
 
 The team built data covering noise, backchannels, speech, and explicit interruptions, iterated on a streaming interruption classifier, and evaluated playback control policies. The public demo illustrates both decision paths after voice activity detection.
 
